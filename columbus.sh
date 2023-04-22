@@ -1,0 +1,11 @@
+#! /bin/bash
+name="theinsdeview"
+company="theplatform"
+position="managingdirector"
+nickname="nabby"
+maritalstatus="mrs"
+echo "hello $name"
+echo "welcome to $company"
+echo "as a $position we love to walk you through our 3 weeks orientation"
+echo "$nickname our team here cannot wait to meet you"
+echo "i hope $maritalstatus and the family are doing well"
